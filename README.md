@@ -17,10 +17,10 @@ Using PaddlePaddleto reproduce the MobileForMer model, and complete the quantity
     """
   ```
 - 支持的论文模型:
-  - 26m
-  - 52m
-  - 96m
-  - 151m
-  - 214m
-  - 294m
-  - 508m
+  - 26m  —— MobileFormer(model_type = '26m')
+  - 52m  —— MobileFormer(model_type = '52m')
+  - 96m  —— MobileFormer(model_type = '96m')
+  - 151m —— MobileFormer(model_type = '151m')
+  - 214m —— MobileFormer(model_type = '214m')
+  - 294m —— MobileFormer(model_type = '294m')
+  - 508m —— MobileFormer(model_type = '508m')
